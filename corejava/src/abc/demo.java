@@ -9,7 +9,7 @@ package abc;
 }
 
 public class demo extends A {
-	final int speedlimit=90;//final variable  
+    int speedlimit=90;//final variable  
 	void run(){  
 	speedlimit=90;  
 	 }  

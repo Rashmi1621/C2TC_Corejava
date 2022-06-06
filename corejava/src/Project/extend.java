@@ -5,8 +5,8 @@ class A{
 	{
 		System.out.println("Hi");
 	}
-}
 
+}
 public class B extends A {
 	void run()
 	{
@@ -22,5 +22,5 @@ public class B extends A {
 		obj1.run();
 
 	}
-
+}
 }
