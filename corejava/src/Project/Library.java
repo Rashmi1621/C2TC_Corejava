@@ -18,7 +18,7 @@ public class Library {
 	public void display()
 	{
 		System.out.println("Accession Number       Title           Author  ");
-		System.out.print("     1054         Java Full Stack     Anju Raju ");
+		System.out.print("     1054         Java Full Stack     Rashmi ");
 	}
 
 	public static void main(String[] args) {
