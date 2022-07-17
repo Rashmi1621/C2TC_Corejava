@@ -7,7 +7,7 @@ public class TreeSetDemo {
 		// TODO Auto-generated method stub
 		//Creating TreeSet and
 				//adding elements
-				TreeSetDemo<String>ts=new TreeSetDemo<String>();
+				TreeSet<String>ts=new TreeSet<String>();
 				ts.add("geeks");
 				ts.add("For");
 				ts.add("Greeks");

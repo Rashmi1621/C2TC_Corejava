@@ -1,5 +1,5 @@
 package stream;
-
+import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Stream;
 
@@ -11,10 +11,6 @@ public class StreamMap {
 		fruits.add("APPLE");
 		fruits.add("BANANA");
 		fruits.add("CHERRY");		
-		Stream<String>stream=fruits.stream();
-		
-		Stream<String>stringStream=stream.map((value)->{return value.toLowerCase();
-		
-		
+		Stream<String>StringStream=Stream.map((value)->{return value.toLowerCase()});
 	}
-		}
+}
