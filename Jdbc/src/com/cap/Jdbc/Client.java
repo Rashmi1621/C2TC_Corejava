@@ -7,7 +7,7 @@ import java.sql.Statement;
 
 public class Client {
 
-	public static void main(String[] args) throws SQLException{
+	public static void main(String[] args) throws SQLException{ 
 		// TODO Auto-generated method stub
 
 Connection connection =DBUtil.getconnection();
